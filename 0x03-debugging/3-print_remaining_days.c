@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_remaining_days - taking leap years
+ * print_remaining_days - takingg leap years
  * @month: month
  * @day: day
  * @year: year
