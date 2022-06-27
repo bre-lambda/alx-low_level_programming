@@ -1,3 +1,3 @@
 # alx-low_level_programming
-alx-low_level_programming for treaning
-C basics
+This repository stores my solutions to the amazing low-level programming projects I did at alx
+"C" Programing language
