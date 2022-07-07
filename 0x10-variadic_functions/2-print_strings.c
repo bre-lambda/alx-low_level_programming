@@ -3,6 +3,7 @@
 
 /**
 * print_strings - prints strings followed by a new line
+*
 * @separator: string separating the strings
 * @n: number of strings passed to function
 *
