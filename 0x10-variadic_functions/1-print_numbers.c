@@ -3,6 +3,7 @@
 
 /**
 * print_numbers - prints numbers followed by a new line
+*
 * @separator: string separating the numbers
 * @n: number of integers passed to function
 *
